@@ -6,6 +6,7 @@
 </template>
 
 <script>
+console.log('pooop')
 import HelloWorld from './components/HelloWorld.vue'
 
 export default {
